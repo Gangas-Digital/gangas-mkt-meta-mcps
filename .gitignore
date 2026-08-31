@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.token*
+*.json
+!.example.json
+.venv/
+__pycache__/
+.DS_Store
+
